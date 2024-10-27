@@ -1,3 +1,7 @@
+pod 'FBSDKCoreKit', '~> 8.0.0'
+pod 'FBSDKLoginKit', '~> 8.0.0'
+pod 'FBSDKShareKit', '~> 8.0.0'
+pod 'FBSDKGamingServiceKit', '~> 8.0.0'
 # [Pods Framework](https://pods.io) #
 [![License](https://img.shields.io/badge/license-GPL--2.0%2B-green.svg)](https://github.com/pods-framework/pods/blob/main/license.txt)
 [![Codeception Tests](https://github.com/pods-framework/pods/workflows/Codeception%20Tests/badge.svg)](https://github.com/pods-framework/pods/actions/workflows/tests-php.yml)
